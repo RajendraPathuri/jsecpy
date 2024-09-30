@@ -18,6 +18,6 @@ pip install -r requirements.txt
 
 To analyze a Java file, run:
 
-python jsecpy.py path/to/java/file.java
+`python jsecpy.py path/to/java/file.java`
 
 The tool will analyze the file and output any detected vulnerabilities along with suggestions for resolving them.
