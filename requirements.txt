@@ -1,3 +1,4 @@
 argparse
-javalang
-requests
+pathlib
+termcolor
+prettytable
