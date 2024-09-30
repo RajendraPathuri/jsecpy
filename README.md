@@ -11,14 +11,14 @@ To run the tool, you need to have the following dependencies installed:
 
 To install the required dependencies, run:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## Usage
 
 To analyze a Java file, run:
 
-python main.py path/to/java/file.java
+`python main.py path/to/java/file.java`
 
 The tool will analyze the file and output any detected vulnerabilities along with suggestions for resolving them.
 
