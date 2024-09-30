@@ -1,4 +1,4 @@
-# Jsecpy
+# JSecPy: Python-Based Java Security Analyzer for OWASP Top 10 Vulnerabilities
 
 `Jsecpy` is a command-line tool for analyzing Java code for security vulnerabilities based on OWASP Top 10. It uses a combination of code parsing and pattern matching to detect potential vulnerabilities, and provides suggestions for resolving them.
 
@@ -21,3 +21,9 @@ To analyze a Java file, run:
 `python jsecpy.py path/to/java/file.java`
 
 The tool will analyze the file and output any detected vulnerabilities along with suggestions for resolving them.
+
+## Example
+
+Provided a `sample.java` file to test the `jsecpy.py` execution
+
+`python jsecpy.py sample.java`
